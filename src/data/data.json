@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"áo thun",
+        "price":100,
+        "hinh":"https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/425974001/item/goods_37_425974001.jpg?width=1008&impolicy=quality_75"
+    },
+    {
+        "id":2,
+        "name":"áo ba lổ",
+        "price":130,
+        "hinh":"../img/h1.jpg"
+    },
+    {
+        "id":3,
+        "name":"áo mưa nhỏ",
+        "price":200
+    },
+    {
+        "id":4,
+        "name":"áo sơ mi",
+        "price":170
+    }
+]
